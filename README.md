@@ -2,8 +2,8 @@
 This is a classification project for filtering spam messages in emails
 
 ### Libraries used:
-Sckit-learn
-Numpy
-Pandas
-Matploblib
+Sckit-learn <br>
+Numpy <br>
+Pandas <br>
+Matploblib <br>
 seaborn
