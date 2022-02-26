@@ -2,7 +2,7 @@
 This is a classification project for filtering spam messages in emails
 
 ### Libraries used:
-Sckit-learn <br>
+Sckit-learn <br> 
 Numpy <br> 
 Pandas <br>
 Matplotlib <br>
