@@ -5,5 +5,5 @@ This is a classification project for filtering spam messages in emails
 Sckit-learn <br>   
 Numpy <br>  
 Pandas <br> 
-Matplotlib <br>
+Matplotlib <br> 
 seaborn
