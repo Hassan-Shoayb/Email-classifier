@@ -7,7 +7,7 @@ This is a classification project for filtering spam messages in emails
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
-  <li>seaborn</li>
+  <li>seaborn</li> 
 </ul> 
  
 
