@@ -9,6 +9,7 @@ A spam message classification is a step towards building a tool for scam message
   <li>Pandas</li>
   <li>Matplotlib</li>
   <li>seaborn</li> 
+  <li>Scipy</li>
 </ul> 
  
 
